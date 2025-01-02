@@ -1,5 +1,5 @@
 <h1>Campus Admin App</h1>
-This is a backend API designed to to manage student's administrasion that related to finishing a certain subject in college. The API provides endpoints for managing thesis proposal and research permit proposal. 
+This is a backend API designed to to manage student's administrasion for finishing a certain subject in college. The API provides endpoints for managing thesis proposal and research permit proposal. 
 <h2>Key Features</h2>
 <ul>
   <li><b>Authentication & Authorization</b>: Secured access using JSON Web Tokens (JWT).</li>
